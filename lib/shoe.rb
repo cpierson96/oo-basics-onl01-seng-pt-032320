@@ -7,7 +7,7 @@ class Shoe
   end 
   def cobble 
     self.condition = "new"
-    puts ""
+    puts "Your shoe is good as new!"
   end 
     
     
