@@ -5,8 +5,8 @@ class Shoe
   def initialize(brand)
     @brand = brand 
   end 
-  def condition=(condition="tattered")
-    @condition = condition 
+  def condition 
+    @condition = "tattered"
   end 
     
     
