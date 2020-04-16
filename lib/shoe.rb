@@ -7,6 +7,7 @@ class Shoe
   end 
   def cobble 
     cobble.shoe = "new"
+    puts ""
   end 
     
     
